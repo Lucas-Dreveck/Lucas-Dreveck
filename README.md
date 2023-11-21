@@ -30,15 +30,45 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellijIDEA&logoColor=000000)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-## Status
+**Projetos:**
+<br>
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dreveck&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+<a href="https://github.com/AntonyBresolin/projeto_cdl_bpk">
+ Site Centro de Linguas
 </a>
+<br>
+(HTML + CSS + JS) 
+<br>
+<p>
+  Adicionado dinamismo para o projeto de site legado do Centro de línguas do BioparkEdu utilizando do headless cms Sanity. <br>
+  Meu papel no projeto foi o de criar os schemas da API e resolver problemas na implementação dos mesmos no site e auxiliar no comportamento do site em diversas situações de resposta ao consumo da API.
+</p>
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-Dreveck&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<br>
+
+<a href="https://github.com/AntonyBresolin/esfera_pro_spring_boot_ReactJSX">
+Esfera Pró: Gerenciamento de Clientes com SpringBoot e React
 </a>
+<br>
+(SpringBoot + React) 
+<br>
+Projeto CRUD referente ao gerenciamento de clientes, com sistema de autenticação de usuário, listagem, criação, edição e remoção de clientes, visando aprimorar hardskills referentes a orientação a objetos.
+<br>
+Baseado em nosso projeto integrador, que visa solucionar a problemática da empresa Esfera pró soluções, eu e minha equipe desenvolvemos uma partição deste projeto como desafio para o segundo semestre da faculdade, onde fiquei responsável pelo desenvolvimento do <strong>front-end</strong> completo da aplicação.
+<p>Projeto trabalho com:</p>
+<ul>
+  <li>Spring Boot JAVA</li>
+  <li>React JS 18 + Vite</li>
+  <li>JavaScript</li>
+  <li>Versionamento de código, Git</li>
+  <li>Metodologia ágil SCRUM</li>
+  <li>Tailwind</li>
+  <li>API REST</li>
+  <li>Microservices</li>
+  <li>MySQL</li>
+</ul>
+
+
 
 <h3>Onde me encontrar</h3>
 
