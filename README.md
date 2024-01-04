@@ -3,8 +3,8 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **ADS** no <a href="https://bioparkeducacao.com">Biopark Edu</a>.
-- 💼 Procurando trabalho na área.
+- 🎓 Estudando **ADS** no <a href="https://www.bioparkeducacao.com">Biopark Edu</a>.
+- 💼 Trabalhando na <a href="https://www.comuniverse.co">Comuniverse</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Git, React, Orientação a Objeto e afins**.
 
 <h3>Minhas Skills</h3>
