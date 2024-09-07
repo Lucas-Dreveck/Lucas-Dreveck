@@ -30,6 +30,14 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellijIDEA&logoColor=000000)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+<br>
+
+<div>
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dreveck&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+<br>
+
 **Projetos:**
 <br>
 
@@ -67,8 +75,6 @@ Baseado em nosso projeto integrador, que visa solucionar a problemática da empr
   <li>Microservices</li>
   <li>MySQL</li>
 </ul>
-
-
 
 <h3>Onde me encontrar</h3>
 
