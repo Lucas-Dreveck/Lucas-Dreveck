@@ -1,83 +1,88 @@
-![](https://komarev.com/ghpvc/?username=Lucas-Dreveck&color=006bed)
+## Sobre mim
 
-<h3>Sobre mim</h3>
+* 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **ADS** no <a href="https://www.bioparkeducacao.com">Biopark Edu</a>.
-- 💼 Trabalhando na <a href="https://www.comuniverse.co">Comuniverse</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Git, React, Orientação a Objeto e afins**.
+* 🎓 Graduado em Análise e Desenvolvimento de Sistemas (ADS) e atualmente cursando Engenharia de Software.
 
-<h3>Minhas Skills</h3>
+* 💼 Trabalhando na <a href="https://www.comuniverse.co">Comuniverse</a>.
 
-**Aplicações e dados**
+* 🌱 &nbsp; Aprendendo mais sobre **cibersegurança**, **Docker** e **arquitetura de software**.
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+## Minhas Skills
 
-**DevOps**
+### Linguagens e Frameworks
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Ferramentas de desenvolvimento**
+---
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellijIDEA&logoColor=000000)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+### DevOps
 
-<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### Ferramentas de Desenvolvimento
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
 
 <div>
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dreveck&layout=compact&langs_count=6&theme=tokyonight"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dreveck&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-<br>
+## Projetos
 
-**Projetos:**
-<br>
+* **<a href="https://github.com/Biopark-Grupo-01/app-atletica">App Atletica Tigre Branco</a>**
 
-<a href="https://github.com/AntonyBresolin/projeto_cdl_bpk">
- Site Centro de Linguas
-</a>
-<br>
-(HTML + CSS + JS) 
-<br>
-<p>
-  Adicionado dinamismo para o projeto de site legado do Centro de línguas do BioparkEdu utilizando do headless cms Sanity. <br>
-  Meu papel no projeto foi o de criar os schemas da API e resolver problemas na implementação dos mesmos no site e auxiliar no comportamento do site em diversas situações de resposta ao consumo da API.
-</p>
+  * **Descrição:** Aplicativo mobile desenvolvido em grupo para gerenciar eventos e anúncios do atlética da Faculdade Donaduzzi. O projeto é dividido em um back-end híbrido (monólito + microsserviços) e um front-end em Flutter.
 
-<br>
+  * **Tecnologias:**
 
-<a href="https://github.com/AntonyBresolin/esfera_pro_spring_boot_ReactJSX">
-Esfera Pró: Gerenciamento de Clientes com SpringBoot e React
-</a>
-<br>
-(SpringBoot + React) 
-<br>
-Projeto CRUD referente ao gerenciamento de clientes, com sistema de autenticação de usuário, listagem, criação, edição e remoção de clientes, visando aprimorar hardskills referentes a orientação a objetos.
-<br>
-Baseado em nosso projeto integrador, que visa solucionar a problemática da empresa Esfera pró soluções, eu e minha equipe desenvolvemos uma partição deste projeto como desafio para o segundo semestre da faculdade, onde fiquei responsável pelo desenvolvimento do <strong>front-end</strong> completo da aplicação.
-<p>Projeto trabalho com:</p>
-<ul>
-  <li>Spring Boot JAVA</li>
-  <li>React JS 18 + Vite</li>
-  <li>JavaScript</li>
-  <li>Versionamento de código, Git</li>
-  <li>Metodologia ágil SCRUM</li>
-  <li>Tailwind</li>
-  <li>API REST</li>
-  <li>Microservices</li>
-  <li>MySQL</li>
-</ul>
+    * <a href="https://github.com/Biopark-Grupo-01/app-atletica-monolito">Back-end Híbrido</a>: NestJs, PostgreSQL, Docker, DDD.
 
-<h3>Onde me encontrar</h3>
+    * <a href="https://github.com/Biopark-Grupo-01/app-atletica">Front-end</a>: Flutter, Firebase Auth.
+   
+---
+
+* **<a href="https://github.com/Lucas-Dreveck/Grupo5_ProjetoIntegrador_mobile">Projeto Integrador Ambiente-se Mobile</a>**
+
+  * **Descrição:** Aplicativo mobile com foco em acessibilidade, responsividade e praticidade.
+
+  * **Tecnologias:** Flutter, Spring Boot, Docker.
+ 
+---
+
+* **<a href="https://github.com/Lucas-Dreveck/ProjetoIntegrador-Ambientese">Projeto Integrador Ambientese Web</a>**
+
+  * **Descrição:** Projeto desenvolvido com o objetivo de gerenciar e conscientizar a população sobre questões ambientais dentro das empresas, com destaque para o uso da tecnologia para engajamento social.
+
+  * **Tecnologias:** HTML, CSS, JavaScript, MySQL, Spring Boot, Docker.
+
+---
+
+* **<a href="https://github.com/AntonyBresolin/esfera_pro_spring_boot_ReactJSX">Esfera Pró: Gerenciamento de Clientes</a>**
+
+  * **Descrição:** Sistema CRUD para gerenciamento de clientes, incluindo autenticação de usuário e funcionalidades de listagem, criação, edição e remoção. Neste projeto, foquei no desenvolvimento completo do front-end.
+
+  * **Tecnologias:** Spring Boot, React, JavaScript, Git, SCRUM, Tailwind, API REST, Microservices, MySQL.
+
+## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Dreveck-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-dreveck-b19871213/)](https://www.linkedin.com/in/lucas-dreveck-b19871213/)
 [![Gmail Badge](https://img.shields.io/badge/-lucas.dreveck0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.dreveck0@gmail.com)](mailto:lucas.dreveck0@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Lucas-Dreveck)
