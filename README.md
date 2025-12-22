@@ -62,8 +62,8 @@ I am a **Brazilian Full Stack Developer** and **Informatics Master's Student (M.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Dreveck&layout=compact&langs_count=6&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Dreveck&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats-teal-seven-87.vercel.app/api/top-langs/?username=Lucas-Dreveck&layout=compact&langs_count=6&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats-teal-seven-87.vercel.app/api?username=Lucas-Dreveck&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </p>
 
 ---
