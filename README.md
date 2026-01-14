@@ -8,16 +8,13 @@
 
 ## 🚀 About Me
 
-I am a **Brazilian Full Stack Developer** and **Informatics Master's Student (M.Sc.) at UFPR**. I am currently in my 6th semester of **Software Engineering at Biopark Educação**, balancing deep academic research with hands-on software delivery.
-
-* 💼 **Current Role:** Full Stack Developer at **Comuniverse**, delivering international strategic solutions.
-* 🛡️ **Interests:** Specializing in **Cybersecurity (DevSecOps)**, Software Architecture, and Scalable Systems.
-* 🎓 **Education:** Pursuing M.Sc. in Informatics (UFPR) and B.S. in Software Engineering (Biopark).
-* 🌍 **Experience:** Solid track record in international projects (Canada/Brazil) with a focus on code quality.
+I’m a Software Engineer based in Brazil, currently pursuing a Master’s in Informatics at UFPR with a focus on Federated Learning, IoT, and security. Having already graduated in Systems Analysis and Development (ADS), I’m now finishing my degree in Software Engineering while working as a Full Stack Developer at Comuniverse. My daily work involves building scalable applications with React and NestJS, including international projects like a management system for the Canadian government. Beyond my professional stack, I’m an enthusiast of cybersecurity and I am currently deepening my knowledge in C# and the .NET ecosystem to build even more robust backend solutions.
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
