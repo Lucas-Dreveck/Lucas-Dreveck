@@ -43,6 +43,7 @@ I’m a Software Engineer based in Brazil, currently pursuing a Master’s in In
 - **Context:** Strategic monorepo for predicting resource demand in educational environments.
 - **Tech:** NestJS, Next.js, PostgreSQL, Docker, SonarQube.
 - **Highlight:** Implemented **DDD** and **Clean Architecture** with strict **SOLID** principles.
+- [View Web/Backend](https://github.com/Grupo-5-Biopark/grupo05)
 
 ### 🐯 Tigre Branco Athletic Association App
 - **Core:** Hybrid backend architecture (Monolith + Microservices).
